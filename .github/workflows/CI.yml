@@ -1,5 +1,9 @@
 name: GitHub Snake Game
 
+permissions:
+  contents: write
+  pages: write
+
 on:
   schedule:
     - cron: "0 0 * * 0"
