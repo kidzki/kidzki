@@ -8,7 +8,7 @@
 * 🔨 Building advanced energy storage solutions to power a sustainable future
 * 💡 Proficient in **React**, **TypeScript**, and **cloud-native applications**
 * 🌱 Constantly learning and embracing new challenges
-* 🤝 Open to collaborating on impactful and innovative projects
+<!-- * 🤝 Open to collaborating on impactful and innovative projects -->
 
 <!--
 ### 🛠️ My Skills at a Glance
@@ -78,6 +78,7 @@ const michael = {
 <!--
 ## Connect With Me
 🔗 LinkedIn | 📧 Email
--->
 
-## 🎉 Let’s build something amazing together!
+
+### 🎉 Let’s build something amazing together!
+-->
