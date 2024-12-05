@@ -3,7 +3,7 @@
 🚀 Software Engineer crafting innovative solutions at [Pramac Storage Systems](https://www.pramac.com)🔋
 
 
-### 🚀 Quick Highlights
+### 👀 Quick Highlights
 * 💻 **Full-stack Developer** | Passionate about cutting-edge web technologies
 * 🔨 Building advanced energy storage solutions to power a sustainable future
 * 💡 Proficient in **React**, **TypeScript**, and **cloud-native applications**
@@ -22,7 +22,7 @@ const michael = {
     currentlyLearning: "Continuously exploring new technologies! 🚀"
 };
 ```
-### 🚀 Tech Stack I Love 🤓
+### 🚀 Tech Stack I Love
 -->
 
 ### 🚀 My Skills at a Glance 🤓
