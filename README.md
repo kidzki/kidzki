@@ -1,21 +1,28 @@
-# Hi there Im Michael, 👋
+# Hi there, I'm Michael! 👋
 
-<!--
-**kidzki/kidzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer crafting innovative solutions at [Pramac Storage Systems](https://www.pramac.com/storage-systems)🔋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Highlights
+* 💻 **Full-stack Developer** | Passionate about cutting-edge web technologies
+* 🔨 Building advanced energy storage solutions to power a sustainable future
+* 💡 Proficient in **React**, **TypeScript**, and **cloud-native applications**
+* 🌱 Constantly learning and embracing new challenges
+* 🤝 Open to collaborating on impactful and innovative projects
 
-## 💻 Tech Stack:
+### 🛠️ My Skills at a Glance
+```javascript
+const michael = {
+    role: "Software Engineer",
+    languages: ["TypeScript", "JavaScript", "Go", "Swift"],
+    frontend: ["React", "Vue", "Angular", "Svelte"],
+    backend: ["Node.js", "GraphQL", "PostgreSQL", "MongoDB"],
+    devOps: ["Docker", "GitHub Actions", "Cloudflare"],
+    currentlyLearning: "Continuously exploring new technologies! 🚀"
+};
+```
+
+### 🚀 Tech Stack I Love 🤓
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -25,6 +32,8 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -62,3 +71,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kidzki/kidzki/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kidzki/kidzki/output/github-snake.svg" />
 </picture>
+
+<!--
+## Connect With Me
+🔗 LinkedIn | 📧 Email
+-->
+
+## 🎉 Let’s build something amazing together!
