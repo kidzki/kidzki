@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋
 
-🚀 Software Engineer crafting innovative solutions at [Pramac Storage Systems](https://www.pramac.com)🔋
+🚀 Lead Software Engineer crafting innovative solutions at [Pramac Storage Systems](https://www.pramac.com)🔋
 
 
 ### 👀 Quick Highlights
@@ -14,7 +14,7 @@
 ### 🛠️ My Skills at a Glance
 ```javascript
 const michael = {
-    role: "Software Engineer",
+    role: "Lead Software Engineer",
     languages: ["TypeScript", "JavaScript", "Go", "Swift"],
     frontend: ["React", "Vue", "Angular", "Svelte"],
     backend: ["Node.js", "GraphQL", "PostgreSQL", "MongoDB"],
