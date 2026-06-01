@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋
 
-🚀 Lead Software Engineer crafting innovative solutions at [Pramac Storage Systems](https://www.pramac.com)🔋
+🚀 Lead Software Engineer crafting innovative solutions
 
 
 ### 👀 Quick Highlights
