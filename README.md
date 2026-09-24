@@ -1,12 +1,7 @@
-<div align="center">
-
 # Hi there, I'm Michael! 👋
 
-🚀 *Lead Software Engineer crafting innovative solutions*
+🚀 Lead Software Engineer crafting innovative solutions
 
-</div>
-
----
 
 ### 👀 Quick Highlights
 
