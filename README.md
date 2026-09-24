@@ -2,7 +2,7 @@
 
 # Hi there, I'm Michael! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=3000&color=3C7DD9&center=true&vCenter=true&width=520&lines=Full-stack+Developer;Building+energy+storage+solutions+%E2%9A%A1;Always+learning+something+new+%F0%9F%8C%B1" alt="Full-stack Developer · Building energy storage solutions · Always learning something new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=3000&color=3C7DD9&center=true&vCenter=true&width=520&lines=Building+energy+storage+solutions+%E2%9A%A1;React+%C2%B7+TypeScript+%C2%B7+Cloud-native+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%8C%B1" alt="Building energy storage solutions · React, TypeScript, cloud-native · Always learning something new" />
 
 🚀 *Lead Software Engineer crafting innovative solutions*
 
