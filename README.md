@@ -2,6 +2,8 @@
 
 🚀 Lead Software Engineer crafting innovative solutions
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=3000&color=3C7DD9&vCenter=true&width=480&lines=Full-stack+Developer;Building+energy+storage+solutions+%E2%9A%A1;Always+learning+something+new+%F0%9F%8C%B1" alt="Full-stack Developer · Building energy storage solutions · Always learning something new" />
+
 
 ### 👀 Quick Highlights
 
